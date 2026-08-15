@@ -1,0 +1,1 @@
+../../.git/annex/objects/z6/QW/MD5E-s2989--2fd852ebc596608bff1e24fb110203cc.spec/MD5E-s2989--2fd852ebc596608bff1e24fb110203cc.spec

@@ -1,0 +1,1 @@
+../../.git/annex/objects/pX/vk/MD5E-s2990--baa78356f029ae02fcd0c0117a1f8c90.spec/MD5E-s2990--baa78356f029ae02fcd0c0117a1f8c90.spec
